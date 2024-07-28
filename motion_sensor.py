@@ -5,7 +5,7 @@ import time
 from deepface import DeepFace
 
 
-API_KEY = "o.IOTNvyg609CJAjdRbQrxGfgUELtpM495" -> #Fake API KEY
+API_KEY = "o.IOTNvyg609CJAjdRbQrxGfgUELtpM495" #-> Fake API KEY
 
 file = 'motion.txt'
 with open(file, 'r') as file:
